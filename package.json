@@ -14,16 +14,16 @@
         "test": "node test.js",
         "test2": "nodemon index.js"
     },
-    "homepage": "https://github.com/BrunoSobrino/TheMystic-Bot-MD",
+    "homepage": "https://github.com/Morfeus863/jok4",
     "author": {
         "name": "BrunoSobrino"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/BrunoSobrino/TheMystic-Bot-MD.git"
+        "url": "https://github.com/Morfeus863/jok4"
     },
     "bugs": {
-        "url": "https://github.com/BrunoSobrino/TheMystic-Bot-MD/issues"
+        "url": "https://github.com/Morfeus863/jok4/issues"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
