@@ -1,29 +1,21 @@
 # `🧿 JoKeR 🔮`
 
-### `—◉ 👑 DUDAS SOBRE EL BOT?, CONTACTANOS 👑`
+### `—◉ 👑 Написать создателю бота 👑`
 <a href="http://wa.me/79524197466" target="blank"><img src="https://img.shields.io/badge/ZloiAdmiN-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 
-### `—◉ 💟 GRUPO DE SOPORTE 💟`
+### `—◉ 💟 Группа поддержки бота 💟`
 
 <a href="[https://chat.whatsapp.com/FQ4gui0wUTO94zgP2YUbsH" target="blank"><img src="https://img.shields.io/badge/Группа по вопросам связанным с ботом-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 </a>
-> LOS NUMEROS NO SON BOTS Y EN EL GRUPO NO SE PERMITEN NUMEROS-BOTS
-
-
- > NO SPAMEAR COMANDOS
-
 
   
-### `—◉ 🌌 ACTIVAR EN REPLIT 🌌`
+### `—◉ 🌌 Активировать в REPLIT 🌌`
 
 [![Run on Repl.it](https://repl.it/badge/github/Morfeus863/jok4)](https://repl.it/github/Morfeus863/jok4)  
 
-### `—◉ ⚙️ AJUSTES ⚙️`
-- CLONAR EL REPOSITORIO [Aqui](https://github.com/BrunoSobrino/Mystic-termux/fork)
-- CAMBIAR NÚMERO DEL OWNER [Aqui](https://github.com/BrunoSobrino/Mystic-termux/blob/master/config.js)
 
-### `—◉ 👾 ACTIVAR EN TERMUX 👾` 
-- ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
+### `—◉ 👾 Установить в термукс 👾` 
+- Вводим команды все по порядку:
 ```bash
 cd && termux-setup-storage
 ```
@@ -60,7 +52,7 @@ npm install
 npm start
 ```
 
-### `—◉ ✔️ ACTIVAR EN CASO DE DETENERSE EN TERMUX ✔️`
+### `—◉ ✔️ АКТИВИРОВАТЬ В СЛУЧАЕ ОСТАНОВКИ НА TERMUX ✔️`
 ```bash
 ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > cd 
@@ -68,10 +60,10 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 > npm start
 ```
 
-### `—◉ 👽 OBTENER OTRO CODIGO QR EN TERMUX 👽`
-- DETENER EL BOT DANDO CLICK EN EL SIMBOLO CTROL EN TERMUX MAS LA LETRA Z EN SU TECLADO MOVIL HASTA QUE SALGA ALGO EN VERDE SIMILAR A Mystic-termux $  
+### `—◉ 👽 ПОЛУЧИТЬ ЕЩЕ ОДИН QR-КОД В TERMUX 👽`
+
 ```bash
-ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
+ВВЕДИТЕ СЛЕДУЮЩИЕ КОМАНДЫ ОДНУ ЗА ДРУГОЙ:
 > cd 
 > cd Mystic-termux
 > rm -rf MysticSession
@@ -80,7 +72,7 @@ ESCRIBE LOS SIGUIENTES COMANDOS UNO POR UNO:
 
 
 
-## `COLABORADORES DEL BOT` 
+## `Работал над ботом` 
 <a href="https://github.com/Morfeus863"><img src="https://github.com/unptoadrih15.png" width="100" height="100" alt="unptoadrih15"/></a>
 
 
